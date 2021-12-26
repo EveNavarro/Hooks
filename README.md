@@ -1,8 +1,12 @@
+<img src="https://github.com/EveNavarro/Hooks/blob/master/public/logo192.png"/>
+
 # :sparkles: Hooks :sparkles: [pdf](https://github.com/EveNavarro/Hooks/blob/master/public/M09C05%20-%20Ejercitaci%C3%B3n%20-%20Hooks.pdf)
 
 ## Preview de la ejercitación
 
 <img src="https://github.com/EveNavarro/Hooks/blob/master/public/movies-search.png" />
+
+:slightly_smiling_face:
 
 # Getting Started with Create React App
 
